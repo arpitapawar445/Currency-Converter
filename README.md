@@ -4,7 +4,7 @@ Currency converter built with HTML, CSS and JavaScript. Uses live exchange rates
 
 ## Live Demo
 
-Try here: https://arpitapawar445.github.io/currency-converter/
+Try here: https://arpitapawar445.github.io/Currency-Converter/
 
 ## Run locally
 
